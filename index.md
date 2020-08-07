@@ -19,8 +19,25 @@ The **applications** developed by me thus far that are open source and in a fini
 # Shift Scheduling tool
 A Computational Approach to Generate Multi-Shift Rotational Workforce Schedules. The algorithm takes into account inputs (or constraints) from the schedule maker and then presents the possible solutions (incl. that all shifts must be filled, working hours per week, minimal resting time, etc.) in a first phase. The schedule maker can then select which solutions are most feasible to proceed with in the second phase, where the final schedules are then constructed and exported.
 
-[RSWalgo (Unix Executable)](https://github.com/benjaminbolling/benjaminbolling.github.io/raw/master/downloads/RSWalgo.app)
-[RSWalgo (Windows Executable)](https://github.com/benjaminbolling/benjaminbolling.github.io/raw/master/downloads/RSWalgo.exe)
+[RSWalgo (Unix Executable)](https://github.com/benjaminbolling/benjaminbolling.github.io/raw/master/downloads/RSWalgo)
+
+## Instructions for MAC and Linux users in terminal:
+
+### First time:
+```
+cd /FolderWithRSWAlgo
+
+chmod +x ./RSWalgo
+
+./RSWalgo
+```
+
+### Not first time:
+```
+cd /FolderWithRSWAlgo
+
+./RSWalgo
+```
 
 # Contact
 For information about me, check out my ORCID below. If you have any requests or questions, drop me an email.
