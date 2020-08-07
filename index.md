@@ -21,9 +21,7 @@ A Computational Approach to Generate Multi-Shift Rotational Workforce Schedules.
 
 [RSWalgo (Unix Executable)](https://github.com/benjaminbolling/benjaminbolling.github.io/raw/master/downloads/RSWalgo)
 
-## Instructions for MAC and Linux users in terminal:
-
-### First time:
+### First time instructions for MAC and Linux users in terminal for running RSWalgo:
 ```
 cd /FolderWithRSWAlgo
 
@@ -32,7 +30,7 @@ chmod +x ./RSWalgo
 ./RSWalgo
 ```
 
-### Not first time:
+### Not first time instructions for MAC and Linux users in terminal for running RSWalgo:
 ```
 cd /FolderWithRSWAlgo
 
