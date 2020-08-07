@@ -1,7 +1,9 @@
 title: Benjamin's Coding Projects' Page
 description: The GitHub page for my coding projects.
-owner:
-  name: Benjamin Bolling
-  email: benjaminbolling@icloud.com
-  github: benjaminbolling
-  orcid: 0000-0002-6650-5365
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
+name: Benjamin Bolling
+email: benjaminbolling@icloud.com
+github: benjaminbolling
+orcid: 0000-0002-6650-5365
