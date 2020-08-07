@@ -2,7 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Dear visitor,
+
+Welcome to my personal coding page. I support open source software (especially for scientific and research purposes). Hence, when I finish developing an application, I publish it at my personal GitHub page.
+
+The applications developed by me thus far that are open source and in a finished or finishing stage are:
+
+<!--
 
 [Link to another page](./another-page.html).
 
@@ -112,7 +118,7 @@ end
 <dd>Japan</dd>
 <dt>Color</dt>
 <dd>Green</dd>
-</dl>
+</dl> -->
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
