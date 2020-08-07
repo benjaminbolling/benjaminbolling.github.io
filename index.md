@@ -29,6 +29,7 @@ chmod +x ./RSWalgo
 
 ./RSWalgo
 ```
+Note that the last command may require sudo privileges (sudo ./RSWalgo).
 
 ### Not first time instructions for MAC and Linux users in terminal for running RSWalgo:
 ```
