@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Dear visitor,
+# Welcome
+
+Dear visitor,
 
 Welcome to my personal coding page. I support open source software (especially for scientific and research purposes). Hence, when I finish developing an application, I publish it at my personal GitHub page.
 
