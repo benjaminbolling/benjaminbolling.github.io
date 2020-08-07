@@ -14,7 +14,9 @@ The **applications** developed by me thus far that are open source and in a fini
 2.  A Shift Scheduling tool
 
 # DynaGUI
-[DynaGUI](https://github.com/benjaminbolling/DynaGUI/blob/master/README.md) DynaGUI stands for Dynamic Graphical User Interface and is a method to construct temporary, permanent and/or a set of GUI:s for users in a simple and fast manner. Developed during shift works at a particle accelerator, the initial goal was to fill in some functions that were then missing: Fast dynamic construction of new control system GUI:s for various purposes.
+DynaGUI stands for Dynamic Graphical User Interface and is a method to construct temporary, permanent and/or a set of GUI:s for users in a simple and fast manner. Developed during shift works at a particle accelerator, the initial goal was to fill in some functions that were then missing: Fast dynamic construction of new control system GUI:s for various purposes.
+
+[DynaGUI Git Repository](https://github.com/benjaminbolling/DynaGUI/blob/master/README.md)
 
 # Shift Scheduling tool
 A Computational Approach to Generate Multi-Shift Rotational Workforce Schedules. The algorithm takes into account inputs (or constraints) from the schedule maker and then presents the possible solutions (incl. that all shifts must be filled, working hours per week, minimal resting time, etc.) in a first phase. The schedule maker can then select which solutions are most feasible to proceed with in the second phase, where the final schedules are then constructed and exported.
