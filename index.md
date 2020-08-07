@@ -20,7 +20,9 @@ The **applications** developed by me thus far that are open source and in a fini
 [RSWalgo](https://github.com/benjaminbolling/benjaminbolling.github.io/raw/master/downloads/RSWalgo) is a Computational Approach to Generate Multi-Shift Rotational Workforce Schedules. The algorithm takes into account inputs (or constraints) from the schedule maker and then presents the possible solutions (incl. that all shifts must be filled, working hours per week, minimal resting time, etc.) in a first phase. The schedule maker can then select which solutions are most feasible to proceed with in the second phase, where the final schedules are then constructed and exported.
 
 # Contact
-For information about me, check out my ORCID below. If you have any requests or questions, drop me an email: benjaminbolling@icloud.com
+For information about me, check out my ORCID below. If you have any requests or questions, drop me an email.
+
+Email address: benjaminbolling@icloud.com
 
 <div style="color:FFFFFF; margin-left: 0%; margin-right: 0%; text-align:left" itemscope itemtype="https://schema.org/Person"><a style="color:78D160" itemprop="sameAs" content="https://orcid.org/0000-0002-6650-5365" href="https://orcid.org/0000-0002-6650-5365" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6650-5365</a></div>
 
