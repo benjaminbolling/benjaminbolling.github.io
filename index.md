@@ -22,7 +22,7 @@ The **applications** developed by me thus far that are open source and in a fini
 # Contact
 For information about me, check out my ORCID below. If you have any requests or questions, drop me an email: benjaminbolling@icloud.com
 
-<div style="color:FFFFFF; margin-left: 10%; margin-right: 10%; text-align:left" itemscope itemtype="https://schema.org/Person"><a style="color:78D160" itemprop="sameAs" content="https://orcid.org/0000-0002-6650-5365" href="https://orcid.org/0000-0002-6650-5365" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6650-5365</a></div>
+<div style="color:FFFFFF; margin-left: 0%; margin-right: 0%; text-align:left" itemscope itemtype="https://schema.org/Person"><a style="color:78D160" itemprop="sameAs" content="https://orcid.org/0000-0002-6650-5365" href="https://orcid.org/0000-0002-6650-5365" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6650-5365</a></div>
 
 
 <!--
