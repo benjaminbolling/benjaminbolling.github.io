@@ -19,7 +19,7 @@ The **applications** developed by me thus far that are open source and in a fini
 
 # Shift Scheduling tool
 
-[RSWalgo](./another-page.html) is a Computational Approach to Generate Multi-Shift Rotational Workforce Schedules. The algorithm takes into account inputs (or constraints) from the schedule maker and then presents the possible solutions (incl. that all shifts must be filled, working hours per week, minimal resting time, etc.) in a first phase. The schedule maker can then select which solutions are most feasible to proceed with in the second phase, where the final schedules are then constructed and exported.
+[RSWalgo](https://github.com/benjaminbolling/benjaminbolling.github.io/raw/master/downloads/RSWalgo) is a Computational Approach to Generate Multi-Shift Rotational Workforce Schedules. The algorithm takes into account inputs (or constraints) from the schedule maker and then presents the possible solutions (incl. that all shifts must be filled, working hours per week, minimal resting time, etc.) in a first phase. The schedule maker can then select which solutions are most feasible to proceed with in the second phase, where the final schedules are then constructed and exported.
 
 
 <!--
