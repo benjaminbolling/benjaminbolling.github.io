@@ -25,7 +25,7 @@ A Computational Approach to Generate Multi-Shift Rotational Workforce Schedules.
 
 [RSWalgo (Unix Executable)](https://github.com/benjaminbolling/benjaminbolling.github.io/raw/master/downloads/RSWalgo)
 
-[RSWalgo documentation (article waiting review)](https://github.com/benjaminbolling/benjaminbolling.github.io/raw/master/downloads/ShiftSchedulingApp_documentation.pdf)
+[RSWalgo documentation](https://arxiv.org/abs/2009.05615)
 
 ### First time instructions for MAC and Linux users in terminal for running RSWalgo:
 ```
