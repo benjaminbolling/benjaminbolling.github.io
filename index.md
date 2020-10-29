@@ -23,7 +23,7 @@ DynaGUI stands for Dynamic Graphical User Interface and is a method to construct
 # Shift Scheduling tool
 A Computational Approach to Generate Multi-Shift Rotational Workforce Schedules. The algorithm takes into account inputs (or constraints) from the schedule maker and then presents the possible solutions (incl. that all shifts must be filled, working hours per week, minimal resting time, etc.) in a first phase. The schedule maker can then select which solutions are most feasible to proceed with in the second phase, where the final schedules are then constructed and exported.
 
-[RSWalgo (Unix Executable)](https://github.com/benjaminbolling/benjaminbolling.github.io/raw/master/downloads/RSWalgo)
+[RSWalgo (Unix Executable)](https://github.com/benjaminbolling/RSWdownload/raw/master/RSWalgo)
 
 [RSWalgo documentation](https://arxiv.org/abs/2009.05615)
 
