@@ -6,10 +6,17 @@ layout: default
 
 Dear visitor,
 
-Welcome to my personal coding page. I support open source software, especially for scientific and research purposes). The **applications** developed by me that are in a finished stage and hence also made open-sourced are:
+Welcome to my personal coding page. I support open source software, especially for scientific and research purposes). The **applications** developed by me that are in a finished stage and hence also made open-sourced are (in order of finishing dates for v1.0.0):
 
-1.  DynaGUI
-2.  A Shift Scheduling tool
+1.  MAX IV soft RF sweeper
+2.  DynaGUI
+3.  A Shift Scheduling tool
+
+# MAX IV soft RF sweeper
+A very simple tool for slowly changing a storage ring's master oscillator's radio-frequency (RF). The steps in the application are small enough for the storage ring's orbit feedback to adjust the orbit such that sensitive beamlines do not register a disturbing fluctuation (in terms of beam intensity and position). Using this tool, the user can define how much the ring's RF is to be changed. The application was part of a publication, see link below.
+
+[Link to Publication](https://www.mdpi.com/2410-390X/4/3/26)
+[Link to Application](https://github.com/benjaminbolling/MAXIVsoftRFsweeper)
 
 # DynaGUI
 DynaGUI stands for Dynamic Graphical User Interface and is a method to construct temporary, permanent and/or a set of GUI:s for users in a simple and fast manner. Developed during shift works at a particle accelerator, the initial goal was to fill in some functions that were then missing: Fast dynamic construction of new control system GUI:s for various purposes.
