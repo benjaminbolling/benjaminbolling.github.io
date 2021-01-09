@@ -6,9 +6,7 @@ layout: default
 
 Dear visitor,
 
-Welcome to my personal coding page. I support open source software, especially for scientific and research purposes).
-
-The **applications** developed by me thus far that are open source and in a finished stage are:
+Welcome to my personal coding page. I support open source software, especially for scientific and research purposes). The **applications** developed by me thus far that are open source and in a finished stage are:
 
 1.  DynaGUI
 2.  A Shift Scheduling tool
