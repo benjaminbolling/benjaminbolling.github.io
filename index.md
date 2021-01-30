@@ -6,11 +6,12 @@ layout: default
 
 Dear visitor,
 
-Welcome to my personal coding page. I support open source software, especially for scientific and research purposes). The **applications** developed by me that are in a finished stage and hence also made open-sourced are (in order of finishing dates for v1.0.0):
+Welcome to my personal coding page. I support open source software, especially for scientific and research purposes). The **applications** developed by me that are in a finished stage and hence also made open-sourced are (in order of finishing dates for v1.0.0) ():
 
-1.  MAX IV soft RF sweeper
-2.  DynaGUI
-3.  A Shift Scheduling tool
+### 1.  MAX IV soft RF sweeper
+### 2.  DynaGUI
+### 3.  SPMTUI
+### 4.  A Shift Scheduling tool
 
 # MAX IV soft RF sweeper
 A very simple tool for slowly changing a storage ring's master oscillator's radio-frequency (RF). The steps in the application are small enough for the storage ring's orbit feedback to adjust the orbit such that sensitive beamlines do not register a disturbing fluctuation (in terms of beam intensity and position). Using this tool, the user can define how much the ring's RF is to be changed. The application was part of a publication, see link below.
@@ -24,12 +25,11 @@ DynaGUI stands for Dynamic Graphical User Interface and is a method to construct
 [Link to DynaGUI](https://joss.theoj.org/papers/10.21105/joss.01942)
 
 # SPMTUI
-SPMTUI stands for Simple Project Management Text-based User Interface and was made for myself for logging and keeping track of tasks and projects to do, in progress, and completed. The code is fully built in Python. SPMTUI features include:
+SPMTUI stands for Simple Project Management Text-based User Interface and was made for myself for logging and keeping track of tasks and projects to do, in progress, and completed. The code is fully built in Python. SPMTUI functionalities includes:
 - Commands with tab-completion
 - Colour-coded states of each task
 - Description of each task
 - Logbook tracking of task initiation and changes (both manual and automatic entries)
-
 
 [Link to SPMTUI](https://github.com/benjaminbolling/SPMTUI)
 
