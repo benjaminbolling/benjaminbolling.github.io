@@ -19,9 +19,19 @@ A very simple tool for slowly changing a storage ring's master oscillator's radi
 [Link to Application](https://github.com/benjaminbolling/MAXIVsoftRFsweeper)
 
 # DynaGUI
-DynaGUI stands for Dynamic Graphical User Interface and is a method to construct temporary, permanent and/or a set of GUI:s for users in a simple and fast manner. Developed during shift works at a particle accelerator, the initial goal was to fill in some functions that were then missing: Fast dynamic construction of new control system GUI:s for various purposes.
+DynaGUI stands for Dynamic Graphical User Interface and is a method to construct temporary, permanent and/or a set of GUI:s for users in a simple and fast manner. Developed during shift works at a particle accelerator, the initial goal was to fill in some functions that were then missing: Fast dynamic construction of new control system GUI:s for various purposes. The code is fully built in Python.
 
 [Link to DynaGUI](https://joss.theoj.org/papers/10.21105/joss.01942)
+
+# SPMTUI
+SPMTUI stands for Simple Project Management Text-based User Interface and was made for myself for logging and keeping track of tasks and projects to do, in progress, and completed. The code is fully built in Python. SPMTUI features include:
+- Commands with tab-completion
+- Colour-coded states of each task
+- Description of each task
+- Logbook tracking of task initiation and changes (both manual and automatic entries)
+
+
+[Link to SPMTUI](https://github.com/benjaminbolling/SPMTUI)
 
 # Shift Scheduling tool
 A Computational Approach to Generate Multi-Shift Rotational Workforce Schedules.
