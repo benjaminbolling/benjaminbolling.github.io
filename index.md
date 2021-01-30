@@ -6,12 +6,12 @@ layout: default
 
 Dear visitor,
 
-Welcome to my personal coding page. I support open source software, especially for scientific and research purposes). The **applications** developed by me that are in a finished stage and hence also made open-sourced are (in order of finishing dates for v1.0.0) ():
+Welcome to my personal coding page. I support open source software, especially for scientific and research purposes). The **applications** developed by me that are in a finished stage and hence also made open-sourced are (in order of finishing dates for v1.0.0):
 
-### 1.  MAX IV soft RF sweeper
-### 2.  DynaGUI
-### 3.  SPMTUI
-### 4.  A Shift Scheduling tool
+1.  MAX IV soft RF sweeper (done)
+2.  DynaGUI (done)
+3.  SPMTUI (done)
+4.  A Shift Scheduling tool (beta version ready, final version in progress)
 
 # MAX IV soft RF sweeper
 A very simple tool for slowly changing a storage ring's master oscillator's radio-frequency (RF). The steps in the application are small enough for the storage ring's orbit feedback to adjust the orbit such that sensitive beamlines do not register a disturbing fluctuation (in terms of beam intensity and position). Using this tool, the user can define how much the ring's RF is to be changed. The application was part of a publication, see link below.
