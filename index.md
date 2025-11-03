@@ -30,7 +30,7 @@ Because... Why not. Written in Python, went overkill for a course at KTH.
 Good for learning both the periodic table and Swedish (or either). Input files:
 - [atomegenskaper.txt](assets/pyex/atomegenskaper.txt)
 - [atomer.txt](assets/pyex/atomer.txt)
-- [poänglista.txt](assets/pyex/poänglista.txt)
+- [poanglista.txt](assets/pyex/poanglista.txt)
 
 ```python
 from tkinter import *
@@ -724,7 +724,7 @@ def spara_poänghistorik(filnamn, poänglistor):
             for poäng in poänghistorik:
                 f.write('{},{},{}\n'.format(poäng[0],poäng[1].strftime("%Y-%m-%d %H:%M:%S"),poäng[2]))
 
-def huvudfunktion(atomfil='atomer.txt',atomegenskapsfil='atomegenskaper.txt',poänghistoriksfil='poänglista.txt'):
+def huvudfunktion(atomfil='atomer.txt',atomegenskapsfil='atomegenskaper.txt',poänghistoriksfil='poanglista.txt'):
     print('\n   Välkommen till programmet för att lära dig det periodiska systemet!\n\nStartar upp grafiskt användargränsnitt.\n')
     atomdata, atomegenskaper, felmeddelande1, laddning1_OK = ladda_atomdata(atomfil,atomegenskapsfil)
     if laddning1_OK:
